@@ -4,6 +4,6 @@ public class git2
 {
 	public void m1()
 	{
-		System.out.println("Practicing Pull Operation");
+		System.out.println("Practicing Push Operation");
 	}
 }
